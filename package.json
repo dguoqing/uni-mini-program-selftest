@@ -1,0 +1,11 @@
+{
+  "name": "uni-mini-program-selftest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dguoqing/uni-mini-program-selftest.git",
+  "author": "donggq <donggq@toplion.com.cn>",
+  "license": "MIT",
+  "dependencies": {
+    "uview-ui": "2.0.31"
+  }
+}
